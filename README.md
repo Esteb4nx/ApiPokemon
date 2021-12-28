@@ -6,6 +6,15 @@ Api Rest de Pokémon hecha con Spring Boot
 - Devolver archivo .JSON con Nombre, Tipo y Imagen del Pokémon (URL)
 - Poder pedir atributo directamente vía flags (Ej: API/ID/TIPO)
 
+## Tecnologías
+- Java 17
+- Spring Boot 2.6.2
+  - Spring Boot DevTools
+  - Spring Web
+  - MariaDB Driver
+  - Spring Data JPA
+- MariaDB 10.4.16
+
 ### TODO's
 
 - [x] Init proyecto con Spring Boot
